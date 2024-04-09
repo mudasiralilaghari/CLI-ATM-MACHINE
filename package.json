@@ -1,0 +1,20 @@
+{
+  "name": "mudasirali-cli-atm-machine",
+  "version": "2.1.1",
+  "description": "A CLI ATM Machine created using TypeScript.",
+  "main": "main.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mudasir Ali",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "mudasirali-cli-atm-machine": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
